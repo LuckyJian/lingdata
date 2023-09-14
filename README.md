@@ -1,1 +1,1 @@
-# my-images
+This is Lu Jian. Welcome to my lingdata repository!
